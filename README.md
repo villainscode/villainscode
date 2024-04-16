@@ -29,6 +29,7 @@ Hi, I'm Code-Villain
   + ISBN - 9791169212199
   + Yes24 - https://www.yes24.com/Product/Goods/125554439
   + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756
+    -  2024/04/07 실시간 1위 (IT/Computer category) [참고링크](https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png)
 
 # 📖 Book
 ### [연봉 앞자리를 바꾸는] 개발자 기술 면접 노트 
