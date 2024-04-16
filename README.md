@@ -33,7 +33,7 @@ Hi, I'm Code-Villain
 # 📖 Book
 ### [연봉 앞자리를 바꾸는] 개발자 기술 면접 노트 
 ######  2024.03.20 한빛미디어 이남희 지음
-<img src="https://raw.githubusercontent.com/haru-note/harunote.github/main/image/book.jpg" />
+<img src="https://raw.githubusercontent.com/haru-note/harunote.github/main/image/book.jpg" width="600"  />
 
 
 # 목차 
