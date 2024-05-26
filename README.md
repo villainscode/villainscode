@@ -9,7 +9,10 @@ Hi, I'm Code-Villain
 
 - Significant experience building high-performance and scalable systems
   + System architecture design
-  + RDBMS knowledge (Entity design) 
+  + RDBMS knowledge (Entity design)
+  + Large-scale data processing
+  + Distributed computing
+  + Microservices Architecture (Real-time Reservation, Large-scale E-Commerce, Enterprise Notification System)
 
 
 # ⚡ Work experience
