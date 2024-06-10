@@ -15,7 +15,7 @@ Hi, I'm Code-Villain
   + Distributed computing
   + Microservices Architecture (Real-time Reservation, Large-scale E-Commerce, Enterprise Notification System)
 
-❗️ I am working in Korea and looking for an overseas technology company that allows remote work.
+❗️ I am working in Korea and looking for an overseas technology company that allows remote work. (I can set up a new development organization) 
 
 # ⚡ Work experience
 - KAKAO Corp (2018 ~ Now, Lead of Partner Platform DEV) 
