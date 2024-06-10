@@ -6,24 +6,26 @@ Hi, I'm Code-Villain
 🤔 I’m currently working on Kakao Corp
 - 15+ years of applicable experience in enterprise software development
   + Proficiency with server-side languages (Java, Spring)
+  + Lead of Technology Development (Project Manager)
 
-- Significant experience building high-performance and scalable systems
+- Significant experience building high-performance and scalable systems 
   + System architecture design
   + RDBMS knowledge (Entity design)
   + Large-scale data processing
   + Distributed computing
   + Microservices Architecture (Real-time Reservation, Large-scale E-Commerce, Enterprise Notification System)
 
+❗️ I am working in Korea and looking for an overseas technology company that allows remote work.
 
 # ⚡ Work experience
-- KAKAO Corp (2018 ~ Now, Part Leader) 
+- KAKAO Corp (2018 ~ Now, Lead of Partner Platform DEV) 
 - LG Fashion (2017 ~ 2018, Senior Manager)
 - Coupang (2013 ~ 2017, Sr.Software Engineer, Technical Leader-L5)
 - Freelance Developer (2008 ~ 2013)
   + Samsung Electronics OSP 2.5, Application Architecture, Manager
   + SK Telecom T-Gate, Application Architecture/Technical Leader, Manager 
   + GS Homeshopping E-Commerce Platform Developement, Manager
-- Web Application Server Technical Support Engineer (2007)
+- Web Application Server (WebLogic) Technical Support Engineer (2007)
 - Pharmaceutical Company IT Support Specialist (2005 ~ 2007)
 
 # 👣 Professional Experience 
@@ -34,12 +36,42 @@ Hi, I'm Code-Villain
   + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756
     -  2024/04/07 Real-Time 1st Rank in Category (IT/Computer) [참고링크](https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png)
 
+# 🔭 Repo
+- https://github.com/orgs/haru-note/repositories 기술 인터뷰 코드 정리 및 예제 
+- https://github.com/orgs/howlingproject/repositories 기업용 위키 (GliderWiki), Open Source Software World Challenge Korea, Silver prize (2012.11-National IT Industry Promotion Agency : NIPA)
+- https://github.com/gliderwiki?tab=repositories 기술 정리용 개인 Repo
+
+# 🌱 Skills 
+
+## Server-side
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Micro Services Architecture](https://img.shields.io/badge/-Micro%20Services%20Architecture-blue?&style=flat-square&logo=MSA&logoColor=#FF9900)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+<br>
+
+## Front
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
+
+
+<img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+<br/><br/>
+
 # 📖 Book
 ### [연봉 앞자리를 바꾸는] 개발자 기술 면접 노트 
 ######  2024.03.20 한빛미디어 이남희 지음
 <img src="https://raw.githubusercontent.com/haru-note/harunote.github/main/image/book.jpg" width="450"  />
 
-
+  
 # 목차 
 ## 1부 취업과 이직을 위한 서류 준비
 
@@ -152,39 +184,6 @@ Hi, I'm Code-Villain
 #### 8.7 처우 협상이 제일 어려웠어요.
 #### 8.8 Wrap up
 #### 8.9 [부록] 샘플 이력서
-
-
-
-
-# 🔭 Repo
-- https://github.com/orgs/haru-note/repositories 기술 인터뷰 코드 정리 및 예제 
-- https://github.com/orgs/howlingproject/repositories 기업용 위키 (GliderWiki), Open Source Software World Challenge Korea, Silver prize (2012.11-National IT Industry Promotion Agency : NIPA)
-- https://github.com/gliderwiki?tab=repositories 기술 정리용 개인 Repo
-
-# 🌱 Skills 
-
-## Server-side
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![Micro Services Architecture](https://img.shields.io/badge/-Micro%20Services%20Architecture-blue?&style=flat-square&logo=MSA&logoColor=#FF9900)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-<br>
-
-## Front
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
-
-
-<img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
-<br/><br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gliderwiki&layout=compact)](https://github.com/gliderwiki/github-readme-stats)
