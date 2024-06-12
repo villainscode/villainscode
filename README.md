@@ -16,6 +16,9 @@ Hi, I'm Code-Villain
   + Microservices Architecture (Real-time Reservation, Large-scale E-Commerce, Enterprise Notification System)
 
 ❗️ I am working in Korea and looking for an overseas technology company that allows remote work. (I can set up a new development organization) 
+- I have experience in commerce, reservation, and event-driven architectures for web and mobile environments, and I have designed entire systems related to these areas. <br>
+- I have participated in numerous projects as a development lead and project manager, creating scalable and reliable solutions to meet complex business needs. <br>
+- For over ten years, my professional experience has been devoted to designing, implementing, and operating microservices architectures (MSA), including leading development organizations at Coupang Inc. and Kakao Corp.<br>
 
 # ⚡ Work experience
 - KAKAO Corp (2018 ~ Now, Lead of Partner Platform DEV) 
