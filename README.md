@@ -1,5 +1,8 @@
 ![background](http://4.bp.blogspot.com/-KKok0VRV-OY/Wwz5Vj2X0fI/AAAAAAAAtzQ/VGPMA4FnqiIYULqIKU3b64REYbpk8BJ1ACK4BGAYYCw/s1600/titles.png)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvillainscode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 # Hello World! 
 Hi, I'm Code-Villain
 <br>
@@ -65,11 +68,13 @@ Hi, I'm Code-Villain
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
 
+![CodeVillains's GitHub stats](https://github-readme-stats.vercel.app/api?username=villainscode&show_icons=true&theme=radical)
+
 
 <img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 <br/><br/>
 
-# 📖 Book
+# 📖 My Book
 ### [연봉 앞자리를 바꾸는] 개발자 기술 면접 노트 
 ######  2024.03.20 한빛미디어 이남희 지음
 <img src="https://raw.githubusercontent.com/haru-note/harunote.github/main/image/book.jpg" width="450"  />
@@ -203,9 +208,6 @@ Hi, I'm Code-Villain
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:villainscode@gmail.com)](mailto:villainscode@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgliderwiki%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://www.instagram.com/codevillains/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/codevillains/"/></a>
-
-![CodeVillains's GitHub stats](https://github-readme-stats.vercel.app/api?username=villainscode&show_icons=true&theme=radical)
-
 
 
 
