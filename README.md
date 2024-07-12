@@ -74,6 +74,11 @@ Hi, I'm Code-Villain
 ######  2024.03.20 한빛미디어 이남희 지음
 <img src="https://raw.githubusercontent.com/haru-note/harunote.github/main/image/book.jpg" width="450"  />
 
+기술 인터뷰를 위한 개발 소스 참고 Repository 
+- https://github.com/villainscode/tech-interview 알고리즘, 디자인 패턴, Java8, Quiz 문제 
+- https://github.com/villainscode/coding-guide 자바 코딩 가이드 
+- https://github.com/villainscode/collections Collection Framework 
+- https://github.com/villainscode/Spring-Redis Redis+Springboot 3.3 예제 코드 
   
 # 목차 
 ## 1부 취업과 이직을 위한 서류 준비
@@ -189,7 +194,6 @@ Hi, I'm Code-Villain
 #### 8.9 [부록] 샘플 이력서
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gliderwiki&layout=compact)](https://github.com/gliderwiki/github-readme-stats)
 
 
 <br/>
@@ -200,25 +204,9 @@ Hi, I'm Code-Villain
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgliderwiki%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://www.instagram.com/codevillains/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/codevillains/"/></a>
 
+![CodeVillains's GitHub stats](https://github-readme-stats.vercel.app/api?username=villainscode&show_icons=true&theme=radical)
 
 
-
-<!--
-**gliderwiki/gliderwiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:	
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![gliderwiki's github stats](https://github-readme-stats.vercel.app/api?username=gliderwiki)](https://github.com/gliderwiki/github-readme-stats)
 
 
 <!--
