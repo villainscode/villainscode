@@ -38,11 +38,18 @@ Hi, I'm Code-Villain
 - Open Source Software World Challenge Korea, Silver prize (2012.11-National IT Industry Promotion Agency : NIPA)
 - Book (Negotiating a Higher Salary: Technical Interview Notes for Java Developers, Hanbit Media), Author, 2024, 03, 25
   + ISBN - 9791169212199
+  + 기술 인터뷰를 위한 개발 소스 참고 Repository
+    - https://github.com/villainscode/tech-interview 알고리즘, 디자인 패턴, Java8, Quiz 문제
+    - https://github.com/villainscode/coding-guide 자바 코딩 가이드
+    - https://github.com/villainscode/collections Collection Framework
+    - https://github.com/villainscode/Spring-Redis Redis+Springboot 3.3 예제 코드
   + Yes24 - https://www.yes24.com/Product/Goods/125554439
   + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756
-    -  2024/04/07 Real-Time 1st Rank in Category (IT/Computer) [참고링크](https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png)
+     -  2024/04/07 Real-Time 1st Rank in Category (IT/Computer) [참고링크](https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png)
 
-# 🔭 Repo
+# 🔭 개인 Repo
+
+개인 Repository 
 - https://github.com/orgs/haru-note/repositories 기술 인터뷰 코드 정리 및 예제 
 - https://github.com/orgs/howlingproject/repositories 기업용 위키 (GliderWiki), Open Source Software World Challenge Korea, Silver prize (2012.11-National IT Industry Promotion Agency : NIPA)
 - https://github.com/gliderwiki?tab=repositories 기술 정리용 개인 Repo
@@ -79,12 +86,6 @@ Hi, I'm Code-Villain
 ######  2024.03.20 한빛미디어 이남희 지음
 <img src="https://raw.githubusercontent.com/haru-note/harunote.github/main/image/book.jpg" width="450"  />
 
-기술 인터뷰를 위한 개발 소스 참고 Repository 
-- https://github.com/villainscode/tech-interview 알고리즘, 디자인 패턴, Java8, Quiz 문제 
-- https://github.com/villainscode/coding-guide 자바 코딩 가이드 
-- https://github.com/villainscode/collections Collection Framework 
-- https://github.com/villainscode/Spring-Redis Redis+Springboot 3.3 예제 코드 
-  
 # 목차 
 ## 1부 취업과 이직을 위한 서류 준비
 
