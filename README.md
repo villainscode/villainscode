@@ -38,14 +38,19 @@ Hi, I'm Code-Villain
 - Open Source Software World Challenge Korea, Silver prize (2012.11-National IT Industry Promotion Agency : NIPA)
 - Book (Negotiating a Higher Salary: Technical Interview Notes for Java Developers, Hanbit Media), Author, 2024, 03, 25
   + ISBN - 9791169212199
+
+
++ 책 관련 링크 모음  
   + 기술 인터뷰를 위한 개발 소스 참고 Repository
     - https://github.com/villainscode/tech-interview 알고리즘, 디자인 패턴, Java8, Quiz 문제
     - https://github.com/villainscode/coding-guide 자바 코딩 가이드
     - https://github.com/villainscode/collections Collection Framework
     - https://github.com/villainscode/Spring-Redis Redis+Springboot 3.3 예제 코드
-  + Yes24 - https://www.yes24.com/Product/Goods/125554439
-  + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756
-     -  2024/04/07 Real-Time 1st Rank in Category (IT/Computer) [참고링크](https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png)
+  
+  - 서점
+    + Yes24 - https://www.yes24.com/Product/Goods/125554439
+    + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756
+    + 2024/04/07 Real-Time 1st Rank in Category (IT/Computer) [참고링크](https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png)
 
 # 🔭 개인 Repo
 
