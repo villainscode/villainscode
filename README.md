@@ -52,6 +52,16 @@ Hi, I'm Code-Villain
     + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756
     + 2024/04/07 Real-Time 1st Rank in Category (IT/Computer) [참고링크](https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png)
 
+
+# 인프런 강의
+
+<img src="https://github.com/villainscode/DesignPattern/blob/main/image/inflean_code.jpeg" width="1000">
+
+- [시니어면접관이 알려주는 개발자 취업과 이직, 한방에 해결하기 이론편](https://www.inflearn.com/course/%EC%8B%9C%EB%8B%88%EC%96%B4-%EB%A9%B4%EC%A0%91%EA%B4%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%B7%A8%EC%97%85-%EC%9D%B4%EC%A7%81-%EC%9D%B4%EB%A1%A0)
+- [시니어면접관이 알려주는 개발자 취업과 이직, 한방에 해결하기 실전편](https://www.inflearn.com/course/%EC%8B%9C%EB%8B%88%EC%96%B4-%EB%A9%B4%EC%A0%91%EA%B4%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%B7%A8%EC%97%85-%EC%9D%B4%EC%A7%81-%EC%8B%A4%EC%A0%84)
+
+
+
 # 🔭 개인 Repo
 
 개인 Repository 
