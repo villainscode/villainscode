@@ -36,6 +36,8 @@ Hi, I'm Code-Villain
 - Open Source Software World Challenge Korea, Silver prize (2012.11-National IT Industry Promotion Agency : NIPA)
 - Book (Negotiating a Higher Salary: Technical Interview Notes for Java Developers, Hanbit Media), Author, 2024, 03, 25
   + ISBN - 9791169212199
+<br>
+    <img src="https://github.com/villainscode/villainscode/blob/main/images/inflean-lecture.png" width="1000">
 
 
 + 책 관련 링크 모음  
