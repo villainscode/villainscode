@@ -46,8 +46,7 @@ Hi, I'm Code-Villain
     - https://github.com/villainscode/Spring-Redis Redis+Springboot 3.3 예제 코드
   
   - 서점
-    + Yes24 - https://www.yes24.com/Product/Goods/125554439
-    + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756
+    + KyoboBooks - https://product.kyobobook.co.kr/detail/S000216231695
     + 2024/04/07 Real-Time 1st Rank in Category (IT/Computer) [참고링크](https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png)
 
 
