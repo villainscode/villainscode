@@ -48,6 +48,7 @@ Hi, I'm Code-Villain
   - 서점
     + KyoboBooks - https://product.kyobobook.co.kr/detail/S000216231695
     + 2024/04/07 Real-Time 1st Rank in Category (IT/Computer) [참고링크](https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png)
+    + 2025/04/18 Real-Time 1st Rank in Category (IT/Computer) [참고링크](https://github.com/villainscode/villainscode/blob/main/images/1rank.png)
 
 
 # 인프런 강의
