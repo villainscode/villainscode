@@ -38,7 +38,7 @@ Hi, I'm Code-Villain
   + ISBN - 9791169212199
 <br>
     <img src="https://github.com/villainscode/villainscode/blob/main/images/book.png" width="300">
-
+<br>
 
 + 책 관련 링크 모음  
   + 기술 인터뷰를 위한 개발 소스 참고 Repository
@@ -46,6 +46,7 @@ Hi, I'm Code-Villain
     - https://github.com/villainscode/coding-guide 자바 코딩 가이드
     - https://github.com/villainscode/collections Collection Framework
     - https://github.com/villainscode/Spring-Redis Redis+Springboot 3.3 예제 코드
+    - https://github.com/villainscode/HelloMessageQueue RabbitMQ를 이용한 비동기 아키텍처 한방에 해결하기
   
   - 서점
     + KyoboBooks - https://product.kyobobook.co.kr/detail/S000216231695
